@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zenuxs.com/sitemap.xml
